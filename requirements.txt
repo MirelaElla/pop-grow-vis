@@ -1,7 +1,8 @@
 # im cmd terminal nach dem Starten eingeben:
 #C:\\ProgramData\\anaconda3\\Scripts\\activate.bat C:\\ProgramData\\anaconda3
 # conda activate popenv
-streamlit
-requests
-pandas
-matplotlib
+# python==3.12.7
+streamlit==1.38.0
+requests==2.32.3
+pandas==2.2.2
+matplotlib==3.9.2

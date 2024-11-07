@@ -16,7 +16,7 @@ A simple and interactive Streamlit app to visualize population growth, mortality
 ## Installation and Usage
 
 ### Prerequisites
-Ensure you have Python installed (>= 3.7). Install required dependencies:
+Ensure you have Python installed (3.12.7). Install required dependencies:
 
 ```bash
 pip install streamlit requests pandas matplotlib numpy
