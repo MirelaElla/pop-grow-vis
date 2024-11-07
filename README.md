@@ -1,8 +1,8 @@
 # World Bank Population Data Viewer
 
-![Example Plot](assets/exampleCH.png)
-
 A simple and interactive Streamlit app to visualize population growth, mortality rates, and newborn statistics across various countries using data from the World Bank API.
+
+![Example Plot](assets/exampleCH.png)
 
 ---
 
